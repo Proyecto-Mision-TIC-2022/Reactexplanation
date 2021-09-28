@@ -28,3 +28,19 @@ ul {
     cursor: pointer;
     transform: scale(1.1);
 }
+
+.secondaryButton {
+    background-color: #66d8f5;
+    color: white;
+    border: 0px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    font-weight: bolder;
+    
+}
+
+.secondaryButton:hover {
+    cursor: pointer;
+    box-shadow: 2px 2px rgb(119, 229, 233);
+    transform: scale(1.1);  
+}
